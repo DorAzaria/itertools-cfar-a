@@ -13,10 +13,8 @@
 #include "filterfalse.hpp"
 #include "compress.hpp"
 
-
 using namespace itertools;
 using namespace std;
-
 
 struct lessThan3 {
     bool operator()(int i) const { return i < 3; }
