@@ -1,0 +1,8 @@
+//
+// Created by dor on 11/06/2020.
+//
+
+#ifndef ITERTOOLS_CFAR_A_RANGE_HPP
+#define ITERTOOLS_CFAR_A_RANGE_HPP
+
+#endif //ITERTOOLS_CFAR_A_RANGE_HPP
