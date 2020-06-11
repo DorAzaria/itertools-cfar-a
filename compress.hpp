@@ -1,8 +1,1 @@
-//
-// Created by dor on 11/06/2020.
-//
-
-#ifndef ITERTOOLS_CFAR_A_COMPRESS_HPP
-#define ITERTOOLS_CFAR_A_COMPRESS_HPP
-
-#endif //ITERTOOLS_CFAR_A_COMPRESS_HPP
+#pragma once
