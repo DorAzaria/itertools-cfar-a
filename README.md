@@ -1,5 +1,5 @@
+![Diagram](https://www.bogotobogo.com/cplusplus/images/stl3/algorithms_independency.png)
 <div dir="rtl" lang="he">
-
 # דמויי-מיכלים - שלב א
 
 המטלה נכתבה בהשראת ספריית itertools של פייתון: https://docs.python.org/3/library/itertools.html כדי להראות שאפשר לכתוב ב-++C באותה רמת נוחות שיש בפייתון (עם קצת הכנה מוקדמת). 
