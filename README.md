@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="hhttps://www.bogotobogo.com/cplusplus/images/stl3/algorithms_independency.png">
+  <img width="460" height="300" src="https://www.bogotobogo.com/cplusplus/images/stl3/algorithms_independency.png">
 </p>
 <div dir="rtl" lang="he">
 # דמויי-מיכלים - שלב א
